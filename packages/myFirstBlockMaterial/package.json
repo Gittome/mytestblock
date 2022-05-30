@@ -48,5 +48,6 @@
     "title": "我的区块",
     "category": []
   },
-  "license": "MIT"
+  "license": "MIT",
+  "gitHead": "21c62617f054d2ccb27ce893fdd79423d3386108"
 }
