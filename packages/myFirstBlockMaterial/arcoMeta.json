@@ -1,0 +1,23 @@
+{
+  "name": "myblock",
+  "title": "我的区块",
+  "description": "",
+  "type": "react-block",
+  "category": [],
+  "group": 0,
+  "homepage": "",
+  "repository": "",
+  "author": "Gittome",
+  "screenshot": "",
+  "package": {
+    "name": "myblock",
+    "version": "latest",
+    "type": "npm",
+    "registry": "",
+    "peerDependencies": [
+      "react",
+      "react-dom",
+      "@arco-design/web-react"
+    ]
+  }
+}
